@@ -20,13 +20,15 @@
   "main": [
 {
 "type": "BaseMale", 
-"model": "M_hair_daHair.glb", 
+"model": "U_hair_daHair.glb", 
 "overrideReplaces": [
    ],
    "overrideHides": [
    ]
-}
+},
+{"type": "BaseFemale", 
+"model": "U_hair_daHair.glb"}
   ],
   "rarity": "legendary",
-  "description": "Digital Alchemy Iridescent Hair"
+  "description": "Digital Alchemy Collection - Iridescent Hair"
 }

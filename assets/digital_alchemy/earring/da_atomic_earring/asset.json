@@ -24,13 +24,15 @@
   "main": [
 {
 "type": "BaseMale", 
-"model": "M_earring_daAtomicEarring.glb", 
+"model": "U_earring_daAtomicEarring.glb", 
 "overrideReplaces": [
    ],
    "overrideHides": [
    ]
-}
+},
+{"type": "BaseFemale", 
+"model": "U_earring_daAtomicEarring.glb"}
   ],
   "rarity": "legendary",
-  "description": "Digital Alchemy Atomic Earring"
+  "description": "Digital Alchemy Collection - sAtomic Earring"
 }

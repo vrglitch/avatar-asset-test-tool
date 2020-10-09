@@ -1,21 +1,22 @@
 {
-  "name": "da_rock_boots_feet",
+  "name": "da_dichroic_eyewear",
   "i18n": {
-    "en": "Digital Alchemy Rock Boots",
-    "es": "Botas de Roca Alquimia Digial"
+    "en": "Digital Alchemy Dichroic Monocle",
+    "es": "Monóculo Alquimia Digial"
   },
   "tags": [
     "accesories",
-    "feet",
+    "eyewer",
     "exclusive",
     "alchemy",
     "digital",
     "decentraland",
     "community",
     "wearables",
-	"boot"
+	"dichroic",
+	"monocle"
    ],
-  "category": "feet",
+  "category": "eyewear",
   "replaces": [
    ],
    "hides": [		
@@ -24,15 +25,15 @@
   "main": [
 {
 "type": "BaseMale", 
-"model": "M_Feet_RockBoots.glb", 
+"model": "U_eyewear_daDichroic.glb", 
 "overrideReplaces": [
    ],
    "overrideHides": [
    ]
 },
 {"type": "BaseFemale", 
-"model": "F_Feet_RockBoots.glb"}
+"model": "U_eyewear_daDichroic.glb"}
   ],
   "rarity": "legendary",
-  "description": "Digital Alchemy Collection - Rock Boots"
+  "description": "Digital Alchemy Collection Crystal Monocle"
 }
